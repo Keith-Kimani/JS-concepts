@@ -58,3 +58,8 @@
 const profit = 20000 - 500 -5000
 
 console.log(profit)
+
+//ParseFloat
+//ParseInt
+//Number
+console.log()
