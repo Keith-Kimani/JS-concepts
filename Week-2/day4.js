@@ -8,5 +8,6 @@ parentContainer.appendChild(childContainer)
 console.log(childContainer)
 
 const innerChildContainer = document.createElement('div')
+innerChildContainer
 childContainer.appendInnerChild(innerChildContainer)
 console.log(innerChildContainer)

@@ -1,4 +1,4 @@
-let school = "Zindua"
+//let school = "Zindua"
 
 //if(school === "Zindua") {
   //  console.log("Zindua School")
@@ -29,8 +29,8 @@ let school = "Zindua"
       //  console.log("I am Kamau")
         //break;
     //default: 
-    console.log("I am not James or Kamau")   
-   // break;
+    //console.log("I am not James or Kamau")   
+   //git a break;
 
 //}
 
@@ -42,7 +42,53 @@ let school = "Zindua"
 
 
 //FOR LOOPS
-//let number = 10
+//let n = parseFloat(prompt('Enter Number'))
+//let sum = 0
 
-//for(let i 10; 1<=number; 1++)
- //console.log(i)
+//for(let i = 1; i < n; i++){
+ 
+//    if (i % 3===0 ||i %5===0){
+  //  }
+//}
+//console.log(sum)
+
+
+
+//function add() {  //Function declaration (parameters)
+
+  //function definition
+ // let a = 10
+  //let b = 20
+
+  //return a + b  //nothing can be added after the return
+//}
+
+console.log(add()) // Function call
+
+
+//function expression
+//const add = function (a, b) {
+ //return a + b
+//}
+
+//console.log(add(10, 20))
+
+//arrow functions
+//const add = (a, b)=>{
+//  return a + b
+//}
+//console.log(add(10,20))
+
+
+//loops
+//for loop
+for(let i = 0; i <=10; i++)
+console.log(i)
+
+
+const name = 'Dan'
+const school = 'Zindua school'
+
+const sentence = `My name is ${name} currently at ${school}`
+
+console.log(sentence)

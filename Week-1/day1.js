@@ -63,3 +63,9 @@ console.log(profit)
 //ParseInt
 //Number
 console.log()
+
+/**
+ * @NAMING RULES
+ * Pascal Case -> ThisIsPascalCase
+ * Camel Case
+ */
